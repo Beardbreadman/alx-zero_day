@@ -1,1 +1,1 @@
-my smooth commit 2
+my new commit 3
